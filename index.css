@@ -1,0 +1,38 @@
+html, body {
+    font-family: 'Italiana', serif;    
+    background:  #FFF8E7;
+    color: #010B13;
+    text-align: center; 
+}
+
+.items{
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    background:  #F7E7CE;
+    width: 600px;
+    height: 800px;
+    margin-bottom: 150px;
+
+}
+
+#E{
+    font-size: 40px;
+}
+
+#mac{
+    font-size: 25px;
+    text-align: left; 
+    padding-left: 30px;
+    margin-bottom: 5px;
+
+}
+#M{ 
+    font-family: 'Roboto Serif', serif;
+    font-size: 13px;
+    text-align: left; 
+    padding-left: 50px;
+    margin-top: 5px;
+
+}
